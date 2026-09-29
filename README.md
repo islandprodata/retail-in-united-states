@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **50,000 retail companies across 
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **50,000 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **[PASTE GUMROAD LINK HERE]** |
+| **Full dataset** | **50,000 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($10 total) -> **[GUMROAD-PENDING-QUOTA]** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 50,000-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of retail united states companies. 
 - **50,000 united states retail companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $10 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[PASTE GUMROAD LINK HERE]**
+- Buy here -> **[GUMROAD-PENDING-QUOTA]**
 
 ## Use cases
 
